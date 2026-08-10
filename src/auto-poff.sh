@@ -9,7 +9,7 @@ while true; do
 
     if ! find "$DOWNLOAD_DIR" -type f -name "*.part" | grep -q .; then
         echo "All downloads completed. Shutting down..."
-        shutdown now
+        shutdown -h now
         break
     fi
 done
