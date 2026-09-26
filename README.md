@@ -51,9 +51,3 @@ python3 script.py
 
 These scripts are mainly made for my own use, so some of them may be experimental, specific to my setup, or completely unnecessary.
 
-Feel free to read, modify, or reuse anything that is useful.
-
-## License
-
-Do whatever you want with it.
-It's just scripts.
